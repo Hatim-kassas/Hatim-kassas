@@ -43,10 +43,6 @@ Hi 👋, I'm Hatim Kassas<br><br>A passionate Full Stack Developer from Morocco<
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hatim-kassas/Hatim-kassas/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hatim Kassas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
