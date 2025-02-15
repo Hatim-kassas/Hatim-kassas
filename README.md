@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Hatim Kassas<br><br>A passionate Full Stack Developer from Morocco<br><br><br>🔭 I’m currently working on Car Rental App.<br>- 🌱 I’m currently learning Angular.<br>- 👯 I’m looking to collaborate on open-source projects.<br>- 🤝 I’m looking for help with advanced Angular techniques.<br>- 💬 Ask me about React, Node.js, Flutter, or Firebase.<br>- 📫 How to reach me: hatim.kassas20@gmail.com.<br>- ⚡ Fun fact: I think I am funny.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ks_hatim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hatim-kassas-2a9837203/) 
 
@@ -35,15 +34,15 @@ Hi 👋, I'm Hatim Kassas<br><br>A passionate Full Stack Developer from Morocco<
 </div>
 
 ###
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hatim-kassas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatim-kassas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 ###
 
-
-![Hatim Kassas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimkassas&show_icons=true&theme=radical)
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hatimkassas&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
