@@ -33,7 +33,7 @@ Hi 👋, I'm Hatim Kassas<br><br>A passionate Full Stack Developer from Morocco<
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
+<br>
 ###
 # 📊 GitHub Stats:
 <div align="center">
