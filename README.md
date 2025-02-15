@@ -44,5 +44,5 @@ Hi 👋, I'm Hatim Kassas<br><br>A passionate Full Stack Developer from Morocco<
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimkassas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hatim-kassas&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
